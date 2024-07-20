@@ -1,4 +1,4 @@
-http://kngdm7banaa5mxjgyu5lsifbodclek7aj7wwrjhnrtjiyww5iny744ad.onion
-http://kngdm7fqilxcuohuucg42yth4mxzwkspuw5vhai4r7rlfa6rivg5f7ad.onion
-http://kngdm7fzbbdxjva5ekevp6cqb3q4gqkf22x7ni5k4ipuk5fzvxjghfyd.onion
-http://kngdm7icva56rtfjoq6qs25sugk5y5rd2z5nrgjvelv2rz2b5htrmmid.onion
+http://nemesisdijkouwnsaxxndsod7unkeuun4bjliicoyovl3cl3eqnlohad.onion
+http://nemesizovvwvf2ejt5bfn6a4llytsk55zupxmg4wmqnditvksvw4c3qd.onion
+http://nemesisiuixguzpx3ezacdbf2ge2w7vyfdmd7eadr4j4kspzocnie4qd.onion
+http://nemesizr6a3w7lw4kna5xq2w6fu5d2cssukoaf3ihx22vxtwrbdcciqd.onion
