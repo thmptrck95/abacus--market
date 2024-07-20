@@ -1,4 +1,4 @@
-http://bar47off2nqqklddj744m3c7kqjbp2tt44yld2bssprm74holytrvvad.onion
-http://bar47od3ylsb5aomcuraguwyypaszkimnd2dzw6iikny4digpleaasad.onion
-http://bar47oob7oqhz7ne3fnmcxs5pbwqsjljeplo3dgjrep7s2nqxiqgnsqd.onion
-http://bar47oashgmwkyfmhuastnthfewpylkotfpgspyoz6rasm6pz7id7qqd.onion
+http://sipuliyfgiol7v437qjru45toshtep7jaxprdyrfwjkjy2e4z4devjad.onion
+http://sipulitqgjdsdnu7wlx5g6x3q55djp2a3jf2c36lbqcmh472usiazjyd.onion
+http://sipulijuu4a44h3aowy3npvy2o4fow2cczfxcu5s2gwlajr3z3f5oeqd.onion
+http://sipulil2xalealjducrhj2n36cigabqe6isxtkeqkawjlrgaqcjc3qyd.onion
